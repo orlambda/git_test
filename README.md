@@ -19,7 +19,7 @@ git add.
     or specific files\
 git commit -m "message"\
 git push\
-    git push origin main\
+    git push origin main\
 
 
 
